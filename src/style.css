@@ -1,5 +1,7 @@
 body {
-  background: linear-gradient(-20deg, #dcb0ed 0%, #99c99c 100%);
+  background-image: url("../poetry.jpg");
+  background-size: cover;
+  /*background: linear-gradient(-20deg, #dcb0ed 0%, #99c99c 100%);*/
 }
 
 header {
@@ -12,6 +14,9 @@ h1 {
   line-height: 1.5;
   color: purple;
   text-align: center;
+  background-color: antiquewhite;
+  border-radius: 10px;
+
 }
 
 form {
