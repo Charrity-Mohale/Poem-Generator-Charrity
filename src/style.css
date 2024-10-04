@@ -1,6 +1,7 @@
 body {
   background-image: url("../poetry.jpg");
   background-size: cover;
+  background-repeat: no-repeat;
   /*background: linear-gradient(-20deg, #dcb0ed 0%, #99c99c 100%);*/
 }
 
